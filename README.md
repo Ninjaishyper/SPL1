@@ -8,7 +8,7 @@
 * Installation VM
 * Einrichtung
 
-#Erledigt am 11.04.2018
+# Erledigt am 11.04.2018
 - Installation VM
 - Installation CMDER
 - Installation VSC
