@@ -3,4 +3,4 @@
 ## 11.04.2018, SPL
 
 Grundlagen GIT
-Instaltion
+Instalation VM
